@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>First Web Page</title>
+	<link rel="stylesheet" type="text/css" href="first.css">
+	<!--<style type="text/css">
+		h1	{
+			color: blue;
+		}
+	</style>-->
+</head>
+<body>
+	<h1>Hello World!</h1>
+	<P>This is my first atemp at making a web page.</P>
+	<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+
+</body>
+</html>
